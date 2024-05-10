@@ -2,7 +2,7 @@
 """
 Created on Fri May 10 16:14:41 2024
 
-@author: adriel
+@author: alexandria
 """
 
 power = int(input("Enter the power: "))
